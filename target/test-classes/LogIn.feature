@@ -1,4 +1,5 @@
 Feature: Login
+
 @SignIn
   Scenario: As a user I want to be able to log in
     Given I am on the Landing Page of http://automationpractice.com/index.php
